@@ -24,12 +24,5 @@ Course Platform API
 4. Automatic Seeding
   Data Loader: On startup, the application checks if the database is empty. If yes, it automatically parses a courses.json file and populates the database with dummy data (Physics, Math, CS courses).
 
-Method,Endpoint,Description,Auth Required?
-GET,/api/courses,List all courses,❌ No
-GET,/api/courses/{id},Get details of a specific course,❌ No
-GET,/api/search?q=xyz,Search courses by keyword,❌ No
-POST,/api/auth/register,Create a new user account,❌ No
-POST,/api/auth/login,Login and receive JWT Token,❌ No
-POST,/api/courses/{id}/enroll,Enroll in a course,✅ Yes
-POST,/api/subtopics/{id}/complete,Mark a subtopic as done,✅ Yes
-GET,/api/enrollments/{id}/progress,View progress & completion %,✅ Yes
+<img width="707" height="431" alt="image" src="https://github.com/user-attachments/assets/696054cf-8c9a-4d6d-970e-a27f3a00b05d" />
+
