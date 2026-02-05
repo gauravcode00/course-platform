@@ -1,1 +1,3 @@
-🔥 Core EndpointsMethodEndpointDescriptionAuth Required?GET/api/coursesList all courses❌ NoGET/api/courses/{id}Get details of a specific course❌ NoGET/api/search?q=xyzSearch courses by keyword❌ NoPOST/api/auth/registerCreate a new user account❌ NoPOST/api/auth/loginLogin and receive JWT Token❌ NoPOST/api/courses/{id}/enrollEnroll in a course✅ YesPOST/api/subtopics/{id}/completeMark a subtopic as done✅ YesGET/api/enrollments/{id}/progressView progress & completion %✅ Yes
+
+🔥 Core Endpoints
+<img width="643" height="369" alt="image" src="https://github.com/user-attachments/assets/288b7206-5457-4665-8852-b5145dad6836" />
