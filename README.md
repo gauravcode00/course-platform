@@ -1,3 +1,4 @@
+Course Platform API
 ✨ Key Features
 1. Public Browsing & Deep Search
 Browse Courses: Users can view a list of all available courses and deep-dive into specific course details (Topics & Subtopics).
@@ -22,8 +23,3 @@ Analytics: Calculates completion percentage (e.g., "55% Completed") based on tot
 
 4. Automatic Seeding
 Data Loader: On startup, the application checks if the database is empty. If yes, it automatically parses a courses.json file and populates the database with dummy data (Physics, Math, CS courses).
-
-
-🔥 Core Endpoints
-
-<img width="643" height="369" alt="image" src="https://github.com/user-attachments/assets/288b7206-5457-4665-8852-b5145dad6836" />
